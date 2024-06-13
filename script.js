@@ -1,1 +1,1 @@
-var cookieParser = require('f'); //nidhi feature1
+var cookieParser = NamedNodeMap; //nidhi feature1
